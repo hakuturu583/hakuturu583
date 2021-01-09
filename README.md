@@ -24,3 +24,5 @@
 :robot: I was an ex-team leader of [Joitech-SPL](http://www.er.ams.eng.osaka-u.ac.jp/asadalab/?p=893)  
 ![rviz_image](./image/1500x500.jpeg "rviz")　　
 - Build camera-based 3D perception system in ROS1.
+- Build camera/IMU based 2D localization system in ROS1.
+- Establish cross-compilation method of ROS1 into naoqi-platform.
